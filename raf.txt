@@ -1,4 +1,1 @@
-"AadClientId": "20d32504-d619-4abc-bc52-e6bd86caba10",
-  "AadSecret": "-r28Q~Bai~8oTwGCipdyFLr5v03PS8F9eW2Q6cSL",
-  "AadTenantDomain": "aeso.onmicrosoft.com",
-  "AadTenantId": "9869aa0d-ebba-4f8c-9399-7dff7665b1d1",
+
